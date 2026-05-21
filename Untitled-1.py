@@ -1,23 +1,3 @@
-
-<! DOCTYPE html>
-<html lang=""pt-br">
-<head>
-    <meta charset+"UTF-8">
-    <meta name=""viewport" content="width="width=device-width, initial-scale="1.0">
-    <title>Titulo do Site</title>
-
-</head>
-<body>
-    <h1>Titulo 1</h1>
-    <h2>Titulo 2</h2>
-    <h3>Titulo 3</h3>
-    <h4>Titulo 4</h4>
-    <h5>Titulo 5</h5>
-    <h6>Titulo 6</h6>
-
-
-    <p>Paragrafo</p>
-
-    <img src="1234.jpg" alt="">
-</body>
-</html>
+for i in range (1,6):
+    if i == 3:
+        print ("numero3")
